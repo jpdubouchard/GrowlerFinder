@@ -1,0 +1,47 @@
+.first-container {
+  padding-top: 4rem;
+}
+.second-container {
+  padding-top: 2rem;
+}
+
+.section{
+    padding-top: 1rem;
+}
+
+.jumbotron {
+    margin-top: 56px;
+    background-image: url(../images/jumbotron.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color:azure;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+footer {
+    bottom: 0;
+    margin: auto;
+    width: 100%;
+}
+
+footer a {
+    padding-left: 2.5px;
+    padding-right: 2.5px;
+    color: black
+}
+
+.col-1, .col-3, .col-5, .col-8, footer p{
+    text-align: right;
+}
+
+.work-details{
+    padding-bottom: 40px;
+}
+.school-details{
+    padding-top: 10px;
+}
+
+.media-links{
+    padding: 0px, 5px;
+}
